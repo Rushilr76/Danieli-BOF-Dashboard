@@ -1,0 +1,11 @@
+/* Light mode scrollbar */
+.custom-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #9ca3af #f3f4f6; /* thumb, track */
+  }
+  
+  /* Dark mode scrollbar */
+  .dark .custom-scrollbar {
+    scrollbar-color: #4b5563 #1f2937;
+  }
+  
